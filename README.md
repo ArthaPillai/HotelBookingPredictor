@@ -1,4 +1,4 @@
-# HotelBooking_PredictiveModeling
+# HotelBookingPredictor
 
 Welcome to this project on building predictive models to identify the factors involved in booking and cancellation of hotel reservations by the customers. In this project, we will be using classification, inference, and regression models to analyze and predict different factors involved in hotel reservation booking and cancellation.
 
